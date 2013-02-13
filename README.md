@@ -1,6 +1,6 @@
 Automated-Transmit-Uploader
 ===========================
-AppleScript script useful to easily upload files (one or more at the same time) from to a remote server using [Transmit](http://panic.com/transmit/).
+AppleScript script useful to easily upload files (one or more at the same time) to a remote server using [Transmit](http://panic.com/transmit/).
 
 ## Idea
 The idea is based on this http://www.macdrifter.com/2011/09/upload-file-selection-via-transmit.html article.
